@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+h1, h2, h3, h4, h5, h6, p, a, button, {
+    font-family: 'Roboto Slab', serif;
+}
+#headerTable {
+    width: 100%;
+    background: #1abc9c;
+}
+
+
+.logo {
+    width: 80px;
+}
+nav {
+    margin-right: 16px;
+   
+}
+a {
+    margin-right: 16px;
+    text-decoration: none;
+    color: black;
+}
+video {
+    width: 100%;
+}
+#mainTable {
+    width: 100%;
+}
+#userImage {
+    width: 500px;
+    height: 500px;
+}
+.bioBox {
+    width: 70%;
+    text-align: left;
+}
+.btn {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20;
+    padding-right: 20;
+    border-radius: 10px;
+    font-size: medium;
+}
+.footerText {
+    text-align: center;
+    color:white;
+}
+footer {
+    background-color: #1abc9c;
+    height: 100px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram {
+    background-color: #007bb5;
+    color: white;
+}
+
